@@ -7,7 +7,7 @@ from pathlib import Path
 
 import requests
 import streamlit as st
-
+BACKEND_URL="https://iai-aat.onrender.com"
 # ---------------------------------------------------------------------------
 # Path bootstrap
 # ---------------------------------------------------------------------------
